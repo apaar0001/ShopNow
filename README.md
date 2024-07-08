@@ -1,3 +1,18 @@
+# ShopNow Database Management System
+
+This project consists of a MySQL database for an e-commerce platform named "ShopNow" and a Python interface for interacting with the database. The Python script allows users to perform various operations such as viewing customers, managing orders, updating products, and more.
+
+## Getting Started
+
+### Prerequisites
+
+Before running the Python script, ensure you have the following software installed:
+
+- Python 3.x
+- MySQL
+- mysql-connector-python
+
+
 Setting Up the Database
 1. Create the Database: Use the provided SQL file to set up the database.
 2. Load Data into the Database: Execute the SQL script to create the necessary tables and populate them with initial data.
