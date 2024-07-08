@@ -294,15 +294,3 @@ INNER JOIN orders o ON p.order_id = o.id;
 
 
 
-
-
-
-
-
-
-
-
--- Contributions: 
--- Apaar(2022089) -> selection from the Tables
--- Piyush Narula(2022354) -> unions , joins cartesian product
--- Nabh Rajput (2021170) -> rest of commands
